@@ -1,0 +1,11 @@
+{
+  "name": "中宏人寿代理人考勤系统",
+  "description": "中宏人寿专业移动端应用，助力代理人高效管理每日考勤、活动量达标追踪及AI智慧展业分析。",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
